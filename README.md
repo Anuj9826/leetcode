@@ -1,14 +1,49 @@
-# Leetcode Problem Solutions
+# <p align="center">🚀 LeetCode Journey</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFA116&center=true&vCenter=true&width=500&lines=Solving+the+Unsolvable;Mastering+Algorithms;One+Problem+at+a+Time" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Anuj9826?theme=dark&font=Ubuntu&ext=heatmap" alt="Anuj's LeetCode Stats" />
+</div>
+
+<br/>
 
 <div align="center">
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=#d16c06)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+  ![Data Structures](https://img.shields.io/badge/Data%20Structures-7023d8?style=for-the-badge&logo=databricks&logoColor=white)
+  ![Algorithms](https://img.shields.io/badge/Algorithms-2094F3?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-  <p><i>Optimal solutions for Leetcode algorithmic problems.</i></p>
 </div>
 
-| 396 | [**Rotate Function**](./solutions/0396-rotate-function.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow)
+---
+
+### 📂 **Problem Explorer**
+
+| # | Title | Solution | Difficulty | Topic |
+| :--- | :--- | :--- | :--- | :--- |
+| 0396 | **Rotate Function** | [🚀 View Code](./solutions/0396-rotate-function.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math` |
 
 <!-- AUTO-GENERATED-ROWS -->
+
+---
+
+### 🛠️ **Usage**
+
+To run any solution locally:
+```bash
+node ./solutions/problem-name.js
+```
+
+### 🧠 **Learning Path**
+- [ ] 100+ Easy Problems
+- [ ] 50+ Medium Problems
+- [ ] 20+ Hard Problems
+
+<div align="center">
+  <p><i>"Don't practice until you get it right. Practice until you can't get it wrong."</i></p>
+</div>
+

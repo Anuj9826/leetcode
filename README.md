@@ -27,6 +27,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 0396 | **Rotate Function** | [🚀 View Code](./solutions/0396-rotate-function.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math` |
 
+| 796 | [**Rotate String**](./solutions/0796-rotate-string.js) | ![Easy](https://img.shields.io/badge/-Easy-success)
 <!-- AUTO-GENERATED-ROWS -->
 
 ---

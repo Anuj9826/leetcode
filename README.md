@@ -13,7 +13,7 @@
 <div align="center">
   
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=#d16c06)
+  ![Leetcode](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=Leetcode&logoColor=%23d16c06)
   ![Data Structures](https://img.shields.io/badge/Data%20Structures-7023d8?style=for-the-badge&logo=databricks&logoColor=white)
   ![Algorithms](https://img.shields.io/badge/Algorithms-2094F3?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -23,11 +23,12 @@
 
 ### 📂 **Problem Explorer**
 
-| # | Title | Solution | Difficulty | Topic |
-| :--- | :--- | :--- | :--- | :--- |
-| 0396 | **Rotate Function** | [🚀 View Code](./solutions/0396-rotate-function.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math` |
+| #    | Title                                                  | Solution                                               | Difficulty                                             | Topic          |
+| :--- | :----------------------------------------------------- | :----------------------------------------------------- | :----------------------------------------------------- | :------------- |
+| 0048 | **Rotate Image**                                       | [🚀 View Code](./solutions/0048-rotate-image.js)    | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Matrix` |
+| 0396 | **Rotate Function**                                    | [🚀 View Code](./solutions/0396-rotate-function.js)    | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math`   |
+| 0796 | **Rotate String**                                      | [🚀 View Code](./solutions/0796-rotate-string.js)      | ![Easy](https://img.shields.io/badge/-Easy-success)    | `String`         |
 
-| 796 | [**Rotate String**](./solutions/0796-rotate-string.js) | ![Easy](https://img.shields.io/badge/-Easy-success)
 <!-- AUTO-GENERATED-ROWS -->
 
 ---
@@ -35,11 +36,13 @@
 ### 🛠️ **Usage**
 
 To run any solution locally:
+
 ```bash
 node ./solutions/problem-name.js
 ```
 
 ### 🧠 **Learning Path**
+
 - [ ] 100+ Easy Problems
 - [ ] 50+ Medium Problems
 - [ ] 20+ Hard Problems
@@ -47,4 +50,3 @@ node ./solutions/problem-name.js
 <div align="center">
   <p><i>"Don't practice until you get it right. Practice until you can't get it wrong."</i></p>
 </div>
-

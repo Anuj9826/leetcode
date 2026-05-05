@@ -23,11 +23,12 @@
 
 ### 📂 **Problem Explorer**
 
-| #    | Title                                                  | Solution                                               | Difficulty                                             | Topic          |
-| :--- | :----------------------------------------------------- | :----------------------------------------------------- | :----------------------------------------------------- | :------------- |
-| 0048 | **Rotate Image**                                       | [🚀 View Code](./solutions/0048-rotate-image.js)    | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Matrix` |
-| 0396 | **Rotate Function**                                    | [🚀 View Code](./solutions/0396-rotate-function.js)    | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math`   |
-| 0796 | **Rotate String**                                      | [🚀 View Code](./solutions/0796-rotate-string.js)      | ![Easy](https://img.shields.io/badge/-Easy-success)    | `String`         |
+| #    | Title               | Solution                                            | Difficulty                                             | Topic            |
+| :--- | :------------------ | :-------------------------------------------------- | :----------------------------------------------------- | :--------------- |
+| 0048 | **Rotate Image**    | [🚀 View Code](./solutions/0048-rotate-image.js)    | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Matrix` |
+| 0061 | **Rotate List**     | [🚀 View Code](./solutions/0061-rotate-list.js)     | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Linked List`    |
+| 0396 | **Rotate Function** | [🚀 View Code](./solutions/0396-rotate-function.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math`   |
+| 0796 | **Rotate String**   | [🚀 View Code](./solutions/0796-rotate-string.js)   | ![Easy](https://img.shields.io/badge/-Easy-success)    | `String`         |
 
 <!-- AUTO-GENERATED-ROWS -->
 
@@ -43,9 +44,9 @@ node ./solutions/problem-name.js
 
 ### 🧠 **Learning Path**
 
-- [ ] 100+ Easy Problems
-- [ ] 50+ Medium Problems
-- [ ] 20+ Hard Problems
+- [x] 100+ Easy Problems
+- [x] 50+ Medium Problems
+- [x] 20+ Hard Problems
 
 <div align="center">
   <p><i>"Don't practice until you get it right. Practice until you can't get it wrong."</i></p>

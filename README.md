@@ -29,6 +29,7 @@
 | 0061 | **Rotate List**     | [🚀 View Code](./solutions/0061-rotate-list.js)     | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Linked List`    |
 | 0396 | **Rotate Function** | [🚀 View Code](./solutions/0396-rotate-function.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math`   |
 | 0796 | **Rotate String**   | [🚀 View Code](./solutions/0796-rotate-string.js)   | ![Easy](https://img.shields.io/badge/-Easy-success)    | `String`         |
+| 1861 | **Rotating the Box**| [🚀 View Code](./solutions/1861-rotating-the-box.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array`          |
 
 <!-- AUTO-GENERATED-ROWS -->
 

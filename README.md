@@ -30,6 +30,7 @@
 | 0396 | **Rotate Function** | [🚀 View Code](./solutions/0396-rotate-function.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math`   |
 | 0796 | **Rotate String**   | [🚀 View Code](./solutions/0796-rotate-string.js)   | ![Easy](https://img.shields.io/badge/-Easy-success)    | `String`         |
 | 1861 | **Rotating the Box**| [🚀 View Code](./solutions/1861-rotating-the-box.js) | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array`          |
+| 3660 | **Jump Game IX**    | [🚀 View Code](./solutions/3660-jump-game-ix.js)    | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Stack`  |
 
 <!-- AUTO-GENERATED-ROWS -->
 

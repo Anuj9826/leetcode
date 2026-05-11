@@ -1,7 +1,7 @@
 /**
  * Maximum Number of Jumps to Reach the Last Index
  * Time Complexity: O(n^2)
- * Space Complexity: O(n) where n is the length of the nums array.
+ * Space Complexity: O(n)
  */
 var maximumJumps = function (nums, target) {
   const n = nums.length;

@@ -42,6 +42,7 @@
 | 2657 | **Find the Prefix Common Array of Two Arrays**         | [🚀 View Code](./solutions/2657-find-the-prefix-common-array-of-two-arrays.js)         | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Hash Table`    |
 | 2770 | **Maximum Number of Jumps to Reach the Last Index**    | [🚀 View Code](./solutions/2770-maximum-number-of-jumps-to-reach-the-last-index.js)    | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `DP`            |
 | 2784 | **Check if Array is Good**                             | [🚀 View Code](./solutions/2784-check-if-array-is-good.js)                             | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array`                 |
+| 3043 | **Find the Length of the Longest Common Prefix**         | [🚀 View Code](./solutions/3043-find-the-length-of-the-longest-common-prefix.js)         | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Hash Table`    |
 | 3629 | **Minimum Jumps to Reach End via Prime Teleportation** | [🚀 View Code](./solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation.js) | ![Hard](https://img.shields.io/badge/-Hard-red)        | `BFS` `Math`            |
 | 3660 | **Jump Game IX**                                       | [🚀 View Code](./solutions/3660-jump-game-ix.js)                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Stack`         |
 

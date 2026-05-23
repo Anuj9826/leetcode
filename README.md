@@ -47,6 +47,7 @@
 | 3629 | **Minimum Jumps to Reach End via Prime Teleportation** | [🚀 View Code](./solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation.js) | ![Hard](https://img.shields.io/badge/-Hard-red)        | `BFS` `Math`            |
 | 3660 | **Jump Game IX**                                       | [🚀 View Code](./solutions/3660-jump-game-ix.js)                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Stack`         |
 
+| 1752 | [**Check if Array Is Sorted and Rotated**](./solutions/1752-check-if-array-is-sorted-and-rotated.js) | ![Easy](https://img.shields.io/badge/-Easy-success)
 <!-- AUTO-GENERATED-ROWS -->
 
 ---

@@ -37,7 +37,9 @@
 | 1345 | **Jump Game IV**                                       | [🚀 View Code](./solutions/1345-jump-game-iv.js)                                       | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Array` `BFS`           |
 | 1665 | **Minimum Initial Energy to Finish Tasks**             | [🚀 View Code](./solutions/1665-minimum-initial-energy-to-finish-tasks.js)             | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Greedy` `Sorting`      |
 | 1674 | **Minimum Moves to Make Array Complementary**          | [🚀 View Code](./solutions/1674-minimum-moves-to-make-array-complementary.js)          | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Prefix Sum`    |
+| 1752 | **Check if Array Is Sorted and Rotated**               | [🚀 View Code](./solutions/1752-check-if-array-is-sorted-and-rotated.js)               | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array`                 |
 | 1861 | **Rotating the Box**                                   | [🚀 View Code](./solutions/1861-rotating-the-box.js)                                   | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array`                 |
+| 1871 | **Jump Game VII**                                      | [🚀 View Code](./solutions/1871-jump-game-vii.js)                                      | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `String` `Prefix Sum`   |
 | 1914 | **Cyclically Rotating A Grid**                         | [🚀 View Code](./solutions/1914-cyclically-rotating-a-grid.js)                         | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Matrix`        |
 | 2540 | **Minimum Common Value**                               | [🚀 View Code](./solutions/2540-minimum-common-value.js)                               | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `Two Pointers`  |
 | 2553 | **Separate the Digits in an Array**                    | [🚀 View Code](./solutions/2553-separate-the-digits-in-an-array.js)                    | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `Math`          |
@@ -47,8 +49,6 @@
 | 3043 | **Find the Length of the Longest Common Prefix**       | [🚀 View Code](./solutions/3043-find-the-length-of-the-longest-common-prefix.js)       | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Hash Table`    |
 | 3629 | **Minimum Jumps to Reach End via Prime Teleportation** | [🚀 View Code](./solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation.js) | ![Hard](https://img.shields.io/badge/-Hard-red)        | `BFS` `Math`            |
 | 3660 | **Jump Game IX**                                       | [🚀 View Code](./solutions/3660-jump-game-ix.js)                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Stack`         |
-
-| 1752 | [**Check if Array Is Sorted and Rotated**](./solutions/1752-check-if-array-is-sorted-and-rotated.js) | ![Easy](https://img.shields.io/badge/-Easy-success)
 
 <!-- AUTO-GENERATED-ROWS -->
 

@@ -61,6 +61,7 @@
 | 3633 | **Earliest Finish Time for Land and Water Rides I**    | [🚀 View Code](./solutions/3633-earliest-finish-time-for-land-and-water-rides-i.js)    | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `Greedy`             |
 | 3635 | **Earliest Finish Time for Land and Water Rides II**   | [🚀 View Code](./solutions/3635-earliest-finish-time-for-land-and-water-rides-ii.js)   | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Greedy`             |
 | 3660 | **Jump Game IX**                                       | [🚀 View Code](./solutions/3660-jump-game-ix.js)                                       | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Stack`              |
+| 3689 | **Maximum Total Subarray Value I**                     | [🚀 View Code](./solutions/3689-maximum-total-subarray-value-i.js)                     | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Greedy`             |
 | 3751 | **Total Waviness of Numbers in Range I**               | [🚀 View Code](./solutions/3751-total-waviness-of-numbers-in-range-i.js)               | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Math` `Dynamic Programming` |
 | 3753 | **Total Waviness of Numbers in Range II**              | [🚀 View Code](./solutions/3753-total-waviness-of-numbers-in-range-ii.js)              | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Math` `Dynamic Programming` |
 

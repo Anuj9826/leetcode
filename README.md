@@ -67,6 +67,7 @@
 | 3751 | **Total Waviness of Numbers in Range I**               | [🚀 View Code](./solutions/3751-total-waviness-of-numbers-in-range-i.js)               | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Math` `Dynamic Programming` |
 | 3753 | **Total Waviness of Numbers in Range II**              | [🚀 View Code](./solutions/3753-total-waviness-of-numbers-in-range-ii.js)              | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Math` `Dynamic Programming` |
 
+| 3842 | [**Number of Ways to Assign Edge Weights II**](./solutions/3842-number-of-ways-to-assign-edge-weights-ii.js) | ![Hard](https://img.shields.io/badge/-Hard-red)
 <!-- AUTO-GENERATED-ROWS -->
 
 ---

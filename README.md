@@ -58,6 +58,7 @@
 | 3161 | **Block Placement Queries**                            | [🚀 View Code](./solutions/3161-block-placement-queries.js)                            | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Array` `Segment Tree`       |
 | 3300 | **Minimum Element After Replacement With Digit Sum**   | [🚀 View Code](./solutions/3300-minimum-element-after-replacement-with-digit-sum.js)   | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `Math`               |
 | 3558 | **Number of Ways to Assign Edge Weights I**            | [🚀 View Code](./solutions/3558-number-of-ways-to-assign-edge-weights-i.js)            | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Math` `Tree`                |
+| 3559 | **Number of Ways to Assign Edge Weights II**           | [🚀 View Code](./solutions/3559-number-of-ways-to-assign-edge-weights-ii.js)           | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Math` `Tree`                |
 | 3629 | **Minimum Jumps to Reach End via Prime Teleportation** | [🚀 View Code](./solutions/3629-minimum-jumps-to-reach-end-via-prime-teleportation.js) | ![Hard](https://img.shields.io/badge/-Hard-red)        | `BFS` `Math`                 |
 | 3633 | **Earliest Finish Time for Land and Water Rides I**    | [🚀 View Code](./solutions/3633-earliest-finish-time-for-land-and-water-rides-i.js)    | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `Greedy`             |
 | 3635 | **Earliest Finish Time for Land and Water Rides II**   | [🚀 View Code](./solutions/3635-earliest-finish-time-for-land-and-water-rides-ii.js)   | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Greedy`             |
@@ -66,8 +67,8 @@
 | 3691 | **Maximum Total Subarray Value II**                    | [🚀 View Code](./solutions/3691-maximum-total-subarray-value-ii.js)                    | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Array` `Greedy`             |
 | 3751 | **Total Waviness of Numbers in Range I**               | [🚀 View Code](./solutions/3751-total-waviness-of-numbers-in-range-i.js)               | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Math` `Dynamic Programming` |
 | 3753 | **Total Waviness of Numbers in Range II**              | [🚀 View Code](./solutions/3753-total-waviness-of-numbers-in-range-ii.js)              | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Math` `Dynamic Programming` |
+| 3838 | **Weighted Word Mapping**                              | [🚀 View Code](./solutions/3838-weighted-word-mapping.js)                              | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `String`             |
 
-| 3842 | [**Number of Ways to Assign Edge Weights II**](./solutions/3842-number-of-ways-to-assign-edge-weights-ii.js) | ![Hard](https://img.shields.io/badge/-Hard-red)
 <!-- AUTO-GENERATED-ROWS -->
 
 ---

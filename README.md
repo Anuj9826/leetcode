@@ -90,6 +90,7 @@
 | 3739 | **Count Subarrays With Majority Element II**             | [🚀 View Code](./solutions/3739-count-subarrays-with-majority-element-ii.js)             | ![Hard](https://img.shields.io/badge/-Hard-red)        | `Array` `Hash==== Table`      |
 | 3751 | **Total Waviness of Numbers in Range I**                 | [🚀 View Code](./solutions/3751-total-waviness-of-numbers-in-range-i.js)                 | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Math` `Dynamic Programming`  |
 | 3753 | **Total Waviness of Numbers in Range II**                | [🚀 View Code](./solutions/3753-total-waviness-of-numbers-in-range-ii.js)                | ![Hard](https://img.shields.io/ge/-Hard-red)           | `Math` `Dynamic Programming`  |
+| 3754 | **Concatenate Non-Zero Digits and Multiply by Sum I**    | [🚀 View Code](./solutions/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.js)    | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Math`                        |
 | 3838 | **Weighted Word Mapping**                                | [🚀 View Code](./solutions/3838-weighted-word-mapping.js)                                | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `String`              |
 
 <!-- AUTO-GENERATED-ROWS -->

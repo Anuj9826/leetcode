@@ -100,6 +100,7 @@
 | 3754 | **Concatenate Non-Zero Digits and Multiply by Sum I**    | [🚀 View Code](./solutions/3754-concatenate-non-zero-digits-and-multiply-by-sum-i.js)    | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Math`                        |
 | 3756 | **Concatenate Non-Zero Digits and Multiply by Sum II**   | [🚀 View Code](./solutions/4136-concatenate-non-zero-digits-and-multiply-by-sum-ii.js)   | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Math`                        |
 | 3838 | **Weighted Word Mapping**                                | [🚀 View Code](./solutions/3838-weighted-word-mapping.js)                                | ![Easy](https://img.shields.io/badge/-Easy-success)    | `Array` `String`              |
+| 3867 | **Sum of GCD of Formed Pairs**                           | [🚀 View Code](./solutions/4242-sum-of-gcd-of-formed-pairs.js)                           | ![Medium](https://img.shields.io/badge/-Medium-yellow) | `Array` `Math`                |
 
 <!-- AUTO-GENERATED-ROWS -->
 
